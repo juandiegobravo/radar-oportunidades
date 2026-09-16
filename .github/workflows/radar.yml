@@ -1,0 +1,61 @@
+name: Radar de Oportunidades
+
+on:
+  schedule:
+    # 08:00 UTC = 10:00 hora de Madrid en horario de verano (CEST).
+    # En horario de invierno (CET, desde finales de octubre) esto se
+    # ejecutará a las 09:00 local, porque el cron de GitHub Actions no
+    # ajusta por DST. Si hace falta la hora exacta todo el año, hay que
+    # cambiar este valor a mano según la época.
+    - cron: '0 8 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: RadarOportunidades
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Restaurar caché de embeddings
+        uses: actions/cache@v4
+        with:
+          path: |
+            RadarOportunidades/embeddings_papernest.json
+            RadarOportunidades/embeddings_competencia.json
+            RadarOportunidades/embeddings_referencia_brechas.json
+          key: embeddings-cache-${{ github.run_id }}
+          restore-keys: |
+            embeddings-cache-
+
+      - name: Ejecutar radar
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GOOGLE_SHEETS_WEBHOOK_URL: ${{ secrets.GOOGLE_SHEETS_WEBHOOK_URL }}
+          GOOGLE_SHEET_CENSO_CSV_URL: ${{ secrets.GOOGLE_SHEET_CENSO_CSV_URL }}
+          GOOGLE_SHEET_RASTREATOR_CSV_URL: ${{ secrets.GOOGLE_SHEET_RASTREATOR_CSV_URL }}
+          GOOGLE_SHEET_SELECTRA_CSV_URL: ${{ secrets.GOOGLE_SHEET_SELECTRA_CSV_URL }}
+          GOOGLE_SHEET_ROAMS_CSV_URL: ${{ secrets.GOOGLE_SHEET_ROAMS_CSV_URL }}
+          GOOGLE_SHEET_PAPERNEST_CSV_URL: ${{ secrets.GOOGLE_SHEET_PAPERNEST_CSV_URL }}
+          SLACK_WORKFLOW_WEBHOOK_URL: ${{ secrets.SLACK_WORKFLOW_WEBHOOK_URL }}
+        run: python3 main.py
+
+      - name: Guardar estado (censo CNMC y oportunidades ya reportadas)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add censo_local.json oportunidades_local.json
+          git diff --cached --quiet || git commit -m "chore: actualizar estado del radar"
+          git push

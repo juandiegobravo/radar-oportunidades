@@ -1,0 +1,11 @@
+.env
+
+# Cachés de embeddings: grandes y regenerables, se persisten vía actions/cache
+# en el workflow en vez de versionarse en git.
+embeddings_papernest.json
+embeddings_competencia.json
+embeddings_referencia_brechas.json
+
+__pycache__/
+*.pyc
+*.bak_*
