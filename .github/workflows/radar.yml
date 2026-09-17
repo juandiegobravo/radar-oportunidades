@@ -2,12 +2,15 @@ name: Radar de Oportunidades
 
 on:
   schedule:
-    # 08:00 UTC = 10:00 hora de Madrid en horario de verano (CEST).
+    # 09:03 UTC = 11:03 hora de Madrid en horario de verano (CEST).
     # En horario de invierno (CET, desde finales de octubre) esto se
-    # ejecutará a las 09:00 local, porque el cron de GitHub Actions no
+    # ejecutará a las 10:03 local, porque el cron de GitHub Actions no
     # ajusta por DST. Si hace falta la hora exacta todo el año, hay que
     # cambiar este valor a mano según la época.
-    - cron: '0 8 * * *'
+    # Se evita el minuto en punto (":00") porque GitHub retrasa o incluso
+    # se salta las ejecuciones programadas justo a la hora en punto por
+    # la alta carga en ese instante.
+    - cron: '3 9 * * *'
   workflow_dispatch: {}
 
 permissions:
