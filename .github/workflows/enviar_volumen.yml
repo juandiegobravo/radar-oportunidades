@@ -29,6 +29,10 @@ jobs:
 
       - name: Marcar volumen como enviado
         run: |
+          if [ ! -f volumen_ahrefs.json ]; then
+            echo "volumen_ahrefs.json no existe (se habrá borrado en el mismo push), nada que marcar."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add volumen_ahrefs.json
