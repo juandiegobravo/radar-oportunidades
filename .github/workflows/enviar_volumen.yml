@@ -1,0 +1,36 @@
+name: Enviar volumen de Ahrefs a Slack
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'volumen_ahrefs.json'
+
+permissions:
+  contents: write
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Enviar volumen pendiente a Slack
+        env:
+          SLACK_WORKFLOW_WEBHOOK_URL: ${{ secrets.SLACK_WORKFLOW_WEBHOOK_URL }}
+        run: python3 enviar_volumen_pendiente.py
+
+      - name: Marcar volumen como enviado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add volumen_ahrefs.json
+          git diff --cached --quiet || git commit -m "chore: marcar volumen de Ahrefs como enviado [skip ci]"
+          git push
