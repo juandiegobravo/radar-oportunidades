@@ -7,11 +7,17 @@ load_dotenv()
 TIMEOUT_HTTP = 15  # segundos; sin esto una petición colgada bloquea el script indefinidamente
 MAX_ITEMS_EN_MENSAJE = 50  # Slack corta/renderiza mal mensajes muy largos
 
-def enviar_resumen_slack(oportunidades):
+def enviar_resumen_slack(oportunidades, hay_oportunidades_pendientes=False):
     """
-    Envía un único mensaje resumen a Slack con todas las oportunidades de la
-    corrida (en vez de un mensaje por oportunidad, para no saturar el canal).
+    Envía un único mensaje resumen a Slack con las alertas de CNMC/BOE de la
+    corrida (en vez de un mensaje por alerta, para no saturar el canal).
     `oportunidades` es una lista de dicts con "origen" y "titulo".
+
+    Las brechas de contenido de Competencia NO van acá: se reportan aparte,
+    enriquecidas con el volumen de búsqueda de Ahrefs (o con el mensaje de
+    respaldo si eso falla). `hay_oportunidades_pendientes` solo ajusta el
+    texto de "sin novedades" para no decir que no hay nada nuevo cuando en
+    realidad sí hay oportunidades de Competencia esperando ese otro mensaje.
     """
     webhook_url = os.getenv("SLACK_WORKFLOW_WEBHOOK_URL")
     if not webhook_url or webhook_url == "tu_url_de_webhook_aqui":
@@ -23,7 +29,14 @@ def enviar_resumen_slack(oportunidades):
     if total == 0:
         # Mensaje explícito de "sin novedades": así se sabe que el radar
         # corrió (y no que se quedó colgado o falló en silencio).
-        texto = "📡 *Radar de Contenido Eléctrico* — hoy no se han detectado nuevas oportunidades."
+        if hay_oportunidades_pendientes:
+            texto = (
+                "📡 *Radar de Contenido Eléctrico* — sin alertas de CNMC/BOE hoy. "
+                "Se detectaron oportunidades de contenido nuevas; llegan en otro "
+                "mensaje con el volumen de búsqueda."
+            )
+        else:
+            texto = "📡 *Radar de Contenido Eléctrico* — hoy no se han detectado nuevas oportunidades."
     else:
         visibles = oportunidades[:MAX_ITEMS_EN_MENSAJE]
         lineas = [f"• *[{o['origen']}]* {o['titulo']}" for o in visibles]

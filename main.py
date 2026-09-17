@@ -87,16 +87,20 @@ def main():
     gaps = detectar_content_gap(progreso_callback=_avance_competencia)
     guardar_ultimas_oportunidades_nuevas(gaps)
     if gaps:
+        # No se agregan a resumen_slack: se reportan aparte, enriquecidas
+        # con el volumen de búsqueda de Ahrefs (ver ultimas_oportunidades_nuevas.json,
+        # la rutina programada y verificar_envio_volumen.py). Mandarlas acá
+        # también duplicaría el aviso en Slack.
         for gap in gaps:
             titulo_alerta = f"Nueva idea de contenido identificada: {gap['titulo']}"
             brecha = f"Detectado en {gap['origen']} y no cubierto por Papernest."
             print(f"  -> {titulo_alerta}")
-            enviar_alerta_directa("Competencia", titulo_alerta, brecha, resumen_slack=resumen_slack)
+            enviar_alerta_directa("Competencia", titulo_alerta, brecha)
         print(f"Competencia: {len(gaps)} brecha(s) de contenido nueva(s) detectada(s).")
     else:
         print("Competencia: sin brechas de contenido nuevas.")
 
-    enviar_resumen_slack(resumen_slack)
+    enviar_resumen_slack(resumen_slack, hay_oportunidades_pendientes=bool(gaps))
     print("Radar completado.")
 
 if __name__ == "__main__":

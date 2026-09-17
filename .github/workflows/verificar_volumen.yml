@@ -1,0 +1,27 @@
+name: Verificar envío de volumen (respaldo)
+
+on:
+  schedule:
+    # Corre ~20 min después del radar (09:03 UTC) y ~10 min después de la
+    # rutina de volumen (09:13 UTC), dándole tiempo a esa cadena a terminar
+    # (rutina -> push -> workflow "Enviar volumen de Ahrefs a Slack").
+    - cron: '33 9 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Verificar envío y mandar respaldo si hace falta
+        env:
+          SLACK_WORKFLOW_WEBHOOK_URL: ${{ secrets.SLACK_WORKFLOW_WEBHOOK_URL }}
+        run: python3 verificar_envio_volumen.py
