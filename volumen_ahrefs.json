@@ -1,9 +1,21 @@
 {
   "fecha": "2026-09-18 09:46:25",
   "oportunidades": [
-    {"origen": "TEST", "titulo": "objetos ahorrar energia", "volumen": null},
-    {"origen": "TEST", "titulo": "mercado regulado", "volumen": 500},
-    {"origen": "TEST", "titulo": "semaforo pool electrico", "volumen": null}
+    {
+      "origen": "TEST",
+      "titulo": "objetos ahorrar energia",
+      "volumen": null
+    },
+    {
+      "origen": "TEST",
+      "titulo": "mercado regulado",
+      "volumen": 500
+    },
+    {
+      "origen": "TEST",
+      "titulo": "semaforo pool electrico",
+      "volumen": null
+    }
   ],
-  "enviado": false
+  "enviado": true
 }
