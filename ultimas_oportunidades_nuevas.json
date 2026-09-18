@@ -1,4 +1,8 @@
 {
-  "fecha": "2026-09-17 15:46:42",
-  "oportunidades": []
+  "fecha": "2026-09-18 09:45:00",
+  "oportunidades": [
+    {"origen": "TEST", "titulo": "objetos ahorrar energia"},
+    {"origen": "TEST", "titulo": "mercado regulado"},
+    {"origen": "TEST", "titulo": "semaforo pool electrico"}
+  ]
 }
