@@ -1,21 +1,5816 @@
 {
-  "fecha": "2026-09-18 09:46:25",
+  "fecha": "2026-09-27 11:20:02",
   "oportunidades": [
     {
-      "origen": "TEST",
-      "titulo": "objetos ahorrar energia",
+      "origen": "Rastreator",
+      "titulo": "acumuladores de calor",
+      "volumen": 800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "ahorrar factura gas",
+      "volumen": 150
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "ahorro energia calefaccion",
       "volumen": null
     },
     {
-      "origen": "TEST",
-      "titulo": "mercado regulado",
+      "origen": "Rastreator",
+      "titulo": "alterna",
+      "volumen": 3400
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "asegurar caldera",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "baja contrato luz gas",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "boletin electrico",
+      "volumen": 1300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "bono social electricidad termico",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "bulb",
+      "volumen": 1800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "bulb opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "calefaccion placas solares",
+      "volumen": 40
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "cambiar de operador de luz o gas",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "cargador coche electrico casa",
+      "volumen": 40
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "cepsa",
+      "volumen": 20000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "cepsa opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "chippio",
+      "volumen": 1100
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "como saber mercado libre regulado",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "como saber mi distribuidora de electricidad energia",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "compania luz barata",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "consumo energia aparatos electricos standby",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "contratar luz gas opiniones",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "contratar primera tarifa energia",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "cuadro electrico",
+      "volumen": 5100
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "cuanto consume aire acondicionado",
+      "volumen": 100
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "curenergia",
+      "volumen": 64000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "dar alta gas",
+      "volumen": 10
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "e distribucion",
+      "volumen": 5200
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "el precio del gas tarifas disponibles",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "elegir tarifa plana luz gas",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa",
+      "volumen": 160000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa alta gas",
+      "volumen": 90
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa alta luz",
+      "volumen": 100
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa iberdrola",
+      "volumen": 100
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa inquilinos propietarios",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa potencia contratada",
+      "volumen": 70
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa servicio mantenimiento",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa conecta",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa one gas",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa one luz",
+      "volumen": 200
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa regulada gas tur",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa tempo happy 2 horas",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa tempo happy 50",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa tempo happy dia",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifa unica",
+      "volumen": 150
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "endesa tarifas",
+      "volumen": 1600
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "energia xxi",
+      "volumen": 105000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "energygo",
+      "volumen": 350
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "factorenergia",
+      "volumen": 3300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "factorenergia opiniones",
+      "volumen": 70
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "factorenergia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "factura luz incluye tope gas",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "fenie",
+      "volumen": 2700
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "fenie opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "fenie tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "frank energy",
+      "volumen": 250
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "gana energia",
+      "volumen": 26000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "gana energia atencion cliente",
+      "volumen": 150
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "gana energia opiniones",
+      "volumen": 250
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "gana energia tarifas",
+      "volumen": 800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "gas power",
+      "volumen": 5800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "holaluz",
+      "volumen": 14000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "holaluz atencion cliente",
+      "volumen": 20
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "holaluz opiniones",
+      "volumen": 800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "iberdrola",
+      "volumen": 300000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "iberdrola alta luz",
+      "volumen": 250
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "iberdrola opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "iberdrola potencia contratada",
+      "volumen": 60
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "iberdrola servicio mantenimiento",
+      "volumen": 10
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "iberdrola tarifas",
+      "volumen": 6000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "lucera",
+      "volumen": 3600
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "masmovil energia",
+      "volumen": 1000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "mejorar la eficiencia energetica",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "mejores tarifas electricidad",
+      "volumen": 70
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "mejores tarifas gas",
+      "volumen": 150
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy",
+      "volumen": 220000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy cambio titular",
+      "volumen": 600
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy endesa",
+      "volumen": 150
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy iberdrola",
+      "volumen": 60
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy opiniones",
+      "volumen": 600
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy potencia contratada",
+      "volumen": 40
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy servicio mantenimiento",
+      "volumen": 30
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy tarifas",
+      "volumen": 1800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "naturgy tarifas tur",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "nedgia",
+      "volumen": 25000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "nexus energia",
+      "volumen": 2900
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "octopus energy",
+      "volumen": 64000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "octopus energy opiniones",
+      "volumen": 6900
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "ovo",
+      "volumen": 5400
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "pepeenergy",
+      "volumen": 4800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "pepeenergy opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "pepeenergy tarifas",
+      "volumen": 150
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "plenitude",
+      "volumen": 28000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "plenitude opiniones",
+      "volumen": 900
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "podo",
+      "volumen": 4600
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "podo atencion cliente",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "podo opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "podo tarifas",
+      "volumen": 60
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "por que salta diferencial",
+      "volumen": 10
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "precio calefaccion",
+      "volumen": 30
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "que caldera elegir",
+      "volumen": 10
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "que electrodomesticos consumen mas",
+      "volumen": 350
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "que es cups",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "que es discriminacion horaria",
+      "volumen": 0
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "que es icp",
+      "volumen": 200
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "redexis",
+      "volumen": 5300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "regsiti",
+      "volumen": 6000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "repsol",
+      "volumen": 125000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "repsol naturgy",
+      "volumen": 30
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "repsol opiniones",
+      "volumen": 80
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "repsol tarifas",
       "volumen": 500
     },
     {
-      "origen": "TEST",
-      "titulo": "semaforo pool electrico",
+      "origen": "Rastreator",
+      "titulo": "som energia",
+      "volumen": 8800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "som energia opiniones",
+      "volumen": 50
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "som energia tarifas",
+      "volumen": 300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "suop",
+      "volumen": 6700
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "tarifa ultimo recurso tur gas natural",
       "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "tarifas acceso 20 td",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "tipos calefaccion mas eficientes",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "total energies",
+      "volumen": 35000
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "total energies opiniones",
+      "volumen": 800
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "total energies tarifas",
+      "volumen": 250
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "union fenosa",
+      "volumen": 2900
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "wekiwi",
+      "volumen": 3300
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "womwatt",
+      "volumen": 10
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "womwatt area clientes",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "womwatt atencion al cliente",
+      "volumen": null
+    },
+    {
+      "origen": "Rastreator",
+      "titulo": "womwatt opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "a tu lado",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "acciona energia",
+      "volumen": 2100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "acciona energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "acsol energia",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "adx energia",
+      "volumen": 700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "agrienergia",
+      "volumen": 700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "ahorro",
+      "volumen": 5900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "ahorro aire acondicionado",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "ahorro consumo lavadora",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "ahorro estos son los electrodomesticos que mas energia consumen el hogar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "ahorro reducir consumo energetico hogar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "alcanzia",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "audax energia",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "audax energia factura",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "audax energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "aura energia",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "avenir energia",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "axpo",
+      "volumen": 2000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "barcelona energia",
+      "volumen": 1000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "barcelona energia opiniones",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "baser clientes",
+      "volumen": 7800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bassols energia",
+      "volumen": 3100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "boletin electrico",
+      "volumen": 1300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bon preu esclat",
+      "volumen": 1200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bon preu esclat opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bono social",
+      "volumen": 11000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bono social beneficiarios",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bono social calculadora bono social",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "bono social termico",
+      "volumen": 11000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "butik",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "calefaccion",
+      "volumen": 2600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "calefaccion cambiar electrica gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "calefaccion electrica",
+      "volumen": 1100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "calefaccion gas natural",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "catgas",
+      "volumen": 1100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "certificado energetico",
+      "volumen": 5600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "chc cor",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "chc energia",
+      "volumen": 4900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "chc energia bono social",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "chc energia factura",
+      "volumen": 80
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "chc energia telefono",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "chippio",
+      "volumen": 1100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cima energia",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "clarity energy",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "clarity energy opiniones",
+      "volumen": 40
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comercializadoras referencia",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "companias",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador",
+      "volumen": 1400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas endesa holaluz",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas endesa iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas endesa total",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas iberdrola repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas repsol endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas repsol naturgy",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador comparativas totalenergies iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador discriminacion horaria",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador luz indexada",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador mercados",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador score",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas gas natural",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas planas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas solares",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas solares bateria virtual",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas solares bateria virtual comercializadoras",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas solares bateria virtual mejor",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas solares mejor",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "comparador tarifas solares pvpc",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "contador gas",
+      "volumen": 400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "contador luz",
+      "volumen": 400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cox energy",
+      "volumen": 3500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "crea energia",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "crea energia opiniones",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cuadro electrico",
+      "volumen": 5100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cuadro electrico icp",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cuadro electrico interruptor diferencial",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cuadro electrico interruptor general automatico",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cuadro electrico pia electricidad",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cuadro electrico protector sobretensiones",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cual es mi distribuidora",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "cups",
+      "volumen": 5200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "curenergia",
+      "volumen": 64000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "curenergia cambio domiciliacion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "curenergia cambio titular",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "curenergia clientes",
+      "volumen": 4100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "curenergia opiniones",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "disa",
+      "volumen": 2100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "distribuidoras",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "e redes telefono",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "edp solar",
+      "volumen": 1300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electra caldense",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electra centelles",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electrica cadiz",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electrica cadiz telefono",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electrica de alginet",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electrica serosense",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "electricity comparator in spain",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa",
+      "volumen": 160000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa bateria virtual",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa bono social",
+      "volumen": 1100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa cambiar potencia",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa clientes",
+      "volumen": 90000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa contratar",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa cups",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa dar alta gas",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa distribucion",
+      "volumen": 4500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa distribucion telefono",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa endesax",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa endesax telefono",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa fecsa",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa lectura contador",
+      "volumen": 40
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa ok gas",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa ok luz",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa one gas",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa one luz",
+      "volumen": 1500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa one luz gas",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa potencia contratada",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa precio kwh",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa pvpc",
+      "volumen": 90
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa sevillana endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa solar",
+      "volumen": 1500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifa conecta",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifa libre",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifa nocturna",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifa solar",
+      "volumen": 400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifa unica",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifas",
+      "volumen": 1600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifas tempo 24h",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tarifas tempo zero",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa telefonos",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tempo happy",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "endesa tur gas",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "eneluz",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia corte ingles opiniones",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia nufri",
+      "volumen": 1700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia nufri opiniones",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi",
+      "volumen": 105000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi cambio titular",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi ceuta",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi clientes",
+      "volumen": 1600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi domiciliacion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi facturas",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi opiniones",
+      "volumen": 40
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energia xxi telefonos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energias del mediterraneo",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energy go",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energy go opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energy go telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energy prices in spain",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energya vm",
+      "volumen": 3600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energya vm opiniones",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "energya vm telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "eres energia",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "escandinava electricidad",
+      "volumen": 80
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "estabanell energia",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "estafas",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "etiqueta energetica",
+      "volumen": 1000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "factor energia",
+      "volumen": 27000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "factor energia opiniones",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "factor energia telefonos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "fenie energia",
+      "volumen": 11000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "fenie energia clientes",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "fenie energia opiniones",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "fenie energia telefono",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "fox energia",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gana energia",
+      "volumen": 26000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gana energia clientes",
+      "volumen": 3000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gana energia factura",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gana energia opiniones",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gana energia telefono",
+      "volumen": 1200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas companies",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas extremadura",
+      "volumen": 900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas extremadura telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas power",
+      "volumen": 5800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas power cambio titular",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas power domiciliacion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas power opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gas power telefonos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "gesternova",
+      "volumen": 2600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "goiener",
+      "volumen": 1300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "goiener opiniones",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "goiener telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "helios energia",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "holaluz",
+      "volumen": 14000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "holaluz clientes",
+      "volumen": 2900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "holaluz opiniones",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "holaluz tarifa solar",
+      "volumen": 90
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "holaluz telefonos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "hs comercializadora",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "huella carbono",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola",
+      "volumen": 300000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola bateria virtual",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola bono social",
+      "volumen": 900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola cambiar potencia",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola cuota fija",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola cups",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola dar alta luz",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola distribucion",
+      "volumen": 3000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola distribucion telefono",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola domiciliacion",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola lectura contador",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan 8 horas",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan ahorro inteligente",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan estable",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan estable verde",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan mas ahorro",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan noche",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan online",
+      "volumen": 1000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan online 3 periodos",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola plan vehiculo electrico",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola potencia contratada",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola precio kwh",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola proteccion hogar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola pvpc",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola servicio mantenimiento",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola tarifa solar",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola tarifas",
+      "volumen": 6000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola tarifas gas",
+      "volumen": 80
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iberdrola tur gas",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "imagina energia",
+      "volumen": 5300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "imagina energia opiniones",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iner energia",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "info",
+      "volumen": 5800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "inserimos",
+      "volumen": 90
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "integra energia",
+      "volumen": 2900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "integra energia opiniones",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "integra energia telefono",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iris energia",
+      "volumen": 700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "iris energia telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "love energy",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "lucera",
+      "volumen": 3600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "lucera mismo precio",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "lucera opiniones",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "lucera telefono",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "lumio",
+      "volumen": 6900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "lumisa",
+      "volumen": 400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "luz coste cero",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "madrilena red gas",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "madrilena red gas telefono",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "mais enerxia galega",
+      "volumen": 1000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "masmovil",
+      "volumen": 69000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "met energia",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "met energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "met energia solar",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "met energia tarifa solar",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "met energia telefono",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nabalia",
+      "volumen": 1100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy",
+      "volumen": 220000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy bajar potencia",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy bateria virtual",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy bono social",
+      "volumen": 1200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy cambio titular",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy clientes",
+      "volumen": 75000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy cups",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy dar alta luz",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy discriminacion horaria",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy lectura contador",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy opiniones",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy por uso",
+      "volumen": 90
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy potencia electrica",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy precio kwh",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy pvpc",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy servielectric",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy servigas",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy solar",
+      "volumen": 1700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy subir potencia",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy tarifa plana",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy tarifa solar",
+      "volumen": 700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy tarifas",
+      "volumen": 1800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy telefonos",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "naturgy tur gas",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nedgia",
+      "volumen": 25000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nedgia inspeccion",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nedgia lectura contador",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nedgia telefono",
+      "volumen": 2400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nexus energia",
+      "volumen": 2900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nexus energia opiniones",
+      "volumen": 40
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nexus energia telefono",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "niba",
+      "volumen": 3400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "niba tarifas",
+      "volumen": 400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nortegas",
+      "volumen": 9500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "nortegas telefono",
+      "volumen": 1700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "novaluz",
+      "volumen": 1200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy",
+      "volumen": 64000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy bateria virtual",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy opiniones",
+      "volumen": 6900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy tarifa octopus 3",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy tarifa octopus relax",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy tarifa solar",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy tarifas",
+      "volumen": 2000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy tarifas precios flexi",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "octopus energy telefono",
+      "volumen": 3300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "odf energia",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "pepeenergy",
+      "volumen": 4800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "pepeenergy opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "pepeenergy telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "peusa",
+      "volumen": 1100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares",
+      "volumen": 17000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares ahorro",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares balcon",
+      "volumen": 450
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares como funcionan",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares componentes",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares componentes baterias solares",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares componentes inversor solar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares componentes sistema backup",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares fotovoltaicas",
+      "volumen": 600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion aerotermia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion aislada",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion alquiler placas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion bombeo solar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion calculo placas solares",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion calculo placas solares horas de sol",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion colectivo",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion colectivo barrios solares",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion colectivo comunidad vecinos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion colectivo remoto",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion inclinacion y orientacion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion kit solar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion mantenimiento placas solares",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa bonificaciones",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa compensacion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa deducciones",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa impuesto sol",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa legalizacion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones andalucia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones aragon",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones castilla la mancha",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones castilla leon",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones catalunya",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones comunidad valenciana",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones galicia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones islas baleares",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones madrid",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones murcia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion normativa subvenciones navarra",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion pymes",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares instalacion vivienda unifamiliar",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares medidas",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "placas solares mejor",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "plenitude",
+      "volumen": 28000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "plenitude opiniones",
+      "volumen": 900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "plenitude tarifas",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "plenitude tarifas facil",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "plenitude telefono",
+      "volumen": 1600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "podo",
+      "volumen": 4600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "podo opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "podo telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "precio kwh gas natural",
+      "volumen": 80
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "precio kwh gas natural factor conversion",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "proxima energia",
+      "volumen": 2400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "proxima energia bateria virtual",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "pvpc",
+      "volumen": 9000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "redexis gas",
+      "volumen": 4800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "redexis gas lectura contador",
+      "volumen": 50
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "redexis gas telefono",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "regsiti",
+      "volumen": 6000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "regsiti opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "renovacion energetica",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol",
+      "volumen": 125000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol asistente gas",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol asistente luz",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol bateria virtual",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol bono social",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol cambiar potencia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol clientes",
+      "volumen": 24000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol compromiso ahorro",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol cups",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol dar alta luz",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol factura gas",
+      "volumen": 60
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol opiniones",
+      "volumen": 80
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol potencia contratada",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol tarifa solar",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol tarifas",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol tarifas tranquilisima",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol telefonos",
+      "volumen": 90
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "repsol waylet",
+      "volumen": 2900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "respira energia",
+      "volumen": 500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "samara energia",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "semaforo componentes precio luz",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "semaforo mercados energeticos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "semaforo precio luz manana",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "smart solar iberdrola",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "solari power",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "swap energia",
+      "volumen": 1200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "syder",
+      "volumen": 350
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tarifa 20 td",
+      "volumen": 10
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tarifa acceso",
+      "volumen": 0
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tarifas acceso gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "teramelcor",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies",
+      "volumen": 35000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies bono social",
+      "volumen": 30
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies cambiar potencia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies cambio titular",
+      "volumen": 100
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies carrefour",
+      "volumen": 70
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies clientes",
+      "volumen": 7600
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies facilita",
+      "volumen": 200
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies maximo ahorro",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies opiniones",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies potencia contratada",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies tarifas",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "total energies telefonos",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "totalenergies",
+      "volumen": 25000
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites",
+      "volumen": 400
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites bajar potencia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites calcular consumo electrico",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites cambiar compania gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites cambiar potencia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites cambio titular gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites contratar gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites corte luz",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites dar alta luz",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites fraude electrico",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites inspeccion periodica gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites instalacion gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites instalacion gas natural certificado instalacion gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites lectura contador gas",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites potencia electrica contratada",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites precios potencia contratada",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites subir potencia",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramites tramos potencia electrica",
+      "volumen": null
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tramos horarios",
+      "volumen": 150
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "tur gas",
+      "volumen": 1300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "unielectrica",
+      "volumen": 1500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "union fenosa",
+      "volumen": 2900
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "union fenosa clientes",
+      "volumen": 800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "union fenosa telefono",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "viesgo distribucion",
+      "volumen": 2700
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "watium",
+      "volumen": 1500
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "wekiwi",
+      "volumen": 3300
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "wekiwi tarifas",
+      "volumen": 250
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "xenera",
+      "volumen": 1800
+    },
+    {
+      "origen": "Selectra",
+      "titulo": "xenera tarifas",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "a tu lado energia",
+      "volumen": 400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "a tu lado energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "aduriz energia",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "agrienergia",
+      "volumen": 700
+    },
+    {
+      "origen": "Roams",
+      "titulo": "alcanzia",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "aracan energia",
+      "volumen": 80
+    },
+    {
+      "origen": "Roams",
+      "titulo": "audax energia",
+      "volumen": 600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "audax energia factura",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "audax energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "audax energia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "audax energia telefono",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "axpo",
+      "volumen": 2000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "baser cor bono social",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "baser cor clientes",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "baser cor tarifas",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "bassols energia",
+      "volumen": 3100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "bassols energia opiniones",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "bassols energia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "biodiesel precio",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "bonpreuesclat energia",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "catgas",
+      "volumen": 1100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "catgas opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cepsa hogar",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cepsa hogar carrefour",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cepsa hogar telefono",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "chc energia",
+      "volumen": 4900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "chc energia clientes",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "chc energia factura",
+      "volumen": 80
+    },
+    {
+      "origen": "Roams",
+      "titulo": "chc energia opiniones",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "chc energia tarifas",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "chc energia telefono",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "companias energeticas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "comparativas naturgy gana",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "comparativas naturgy totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "comparativas repsol gana",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cor energetico",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia",
+      "volumen": 64000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia bono social",
+      "volumen": 2800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia clientes",
+      "volumen": 4100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia opiniones",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia tarifas",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "curenergia telefono",
+      "volumen": 4400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cye energia",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cye energia clientes",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cye energia energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cye energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "cye energia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "e distribucion",
+      "volumen": 5200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "e distribucion opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "e distribucion telefono",
+      "volumen": 450
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp",
+      "volumen": 21000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp cambio titular",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp dar alta luz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp discriminacion horaria",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp funciona",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp puntos",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "edp telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "electra energia",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "electrica de cadiz",
+      "volumen": 3200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "electrica de cadiz clientes",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "electrica de cadiz tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "electrica de cadiz telefono",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eleia energia",
+      "volumen": 1300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eleia energia clientes",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eleia energia factura",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eleia energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eleia energia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eleia energia telefono",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa",
+      "volumen": 160000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa bono social",
+      "volumen": 1100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa clientes",
+      "volumen": 90000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa comparativa naturgy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa cuota doce",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa cups",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa dar alta gas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa dar baja",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa icp",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa lectura contador",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa ok gas",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa ok luz",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa placas solares",
+      "volumen": 450
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa potencia contratada",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa precio kwh",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa tarifas",
+      "volumen": 1600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa tarifas one",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa tarifas tarifa nocturna",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa tarifas tur",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa tarifas unica",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "endesa telefono",
+      "volumen": 9300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia renovable",
+      "volumen": 3600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar",
+      "volumen": 7600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar acumulador",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar acumulador agua solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar autoconsumo remoto",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar bateria virtual autoconsumo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar huerto solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores contigo energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x aire acondicionado",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x app",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x clientes",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x factura",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores endesa x mantenimiento",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores engel solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores engel solar telefono",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores galp solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores iberdrola smart solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores isla solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores lumio",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores otovo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores otovo telefono",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores powen",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores solar 360 opiniones",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores solar profit",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores solar profit clientes",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores solideo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar instaladores sotysolar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar pasiva",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar placas solares permisos",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar precio",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia solar radiador",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi",
+      "volumen": 105000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi bono social",
+      "volumen": 1800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi opiniones",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi tarifas",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energia xxi telefono",
+      "volumen": 4100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energya vm",
+      "volumen": 3600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energya vm clientes",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energya vm dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energya vm opiniones",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energya vm tarifas",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energya vm telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energygo",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energygo energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energygo factura",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energygo opiniones",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energygo tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "energygo telefono",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "eres energia",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "escandinava electricidad",
+      "volumen": 80
+    },
+    {
+      "origen": "Roams",
+      "titulo": "escandinava electricidad opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia",
+      "volumen": 27000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia clientes",
+      "volumen": 1400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia factura",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia gas",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia luz",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia opiniones",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "factor energia telefono",
+      "volumen": 1900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia",
+      "volumen": 11000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia clientes",
+      "volumen": 800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia factura",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia opiniones",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia tarifas",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fenie energia telefono",
+      "volumen": 800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fox energia",
+      "volumen": 500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "fox energia clientes",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "galp energia",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "galp energia puntos",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "galp energia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "galp energia telefono",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gana energia",
+      "volumen": 26000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gana energia clientes",
+      "volumen": 3000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gana energia energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gana energia factura",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gana energia tarifas",
+      "volumen": 800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gana energia telefono",
+      "volumen": 1200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas",
+      "volumen": 8800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas acometidas gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas agrienergia tarifa estable plan gas 10 agrienergia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas agua caliente gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas alcanzia tarifa estable alcanzia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas bono social termico",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas butano",
+      "volumen": 1700
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas calderas comunitarias gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas calefaccion gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas calefaccion mas barata",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas cambiar caldera gasoil gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas cambiar compania gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas cambiar gas natural butano",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas cambiar propano gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas chc energia tarifa estable plan cercania chc energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas comparar gasoil gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas consumo gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas contador gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas corte suministro gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas dar baja gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas derechos enganche gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas distribucion gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas endesa tarifa estable gas one endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas energygo tarifa estable gas energygo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas extremadura",
+      "volumen": 900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas fenie energia tarifa estable gas fenie energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas fenie energia tarifa estable indexada gas fenie energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas fox energia tarifa estable fija gas fox energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas gas natural gas butano",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas gas natural zona",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas gas propano",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas gas propano gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas gasto medio gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas holaluz tarifa fija estable gas holaluz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas instalacion",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas integra energia tarifa estable fija gas integra energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas iris energia tarifa fija estable iris energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas lectura contador",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas logos energia tarifa estable logos energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas mantenimiento caldera",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas mercado regulado tarifa tur mercado regulado",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas met tarifa estable gas precio fijo met energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas nabalia tarifa estable now nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas nexus energia tarifa estable gas a precio de coste nexus energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas peajes acceso",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas plenitude tarifa estable consumo plenitude",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas plenitude tarifa estable fija plenitude",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas podo tarifa estable flexi gas hoy podo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas power",
+      "volumen": 5800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas power opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas power tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas power telefono",
+      "volumen": 600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas precio gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas precio gasoil",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas reconexion suministro gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas revision caldera",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas revision obligatoria",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas servicios mantenimiento gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas totalenergies tarifa estable gas totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas tur",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas ventajas gas natural",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas visalia tarifa indexada gas visalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas vivo energia tarifa estable gas fija vivo energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gas xenera tarifa estable xenera",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gesternova",
+      "volumen": 2600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "gesternova tarifas",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "goiener",
+      "volumen": 1300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "goiener opiniones",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "goiener tarifas",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz",
+      "volumen": 14000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz comparativa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz opiniones",
+      "volumen": 800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz placas solares",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz precio kwh",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "holaluz telefono",
+      "volumen": 900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola",
+      "volumen": 300000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola asistencia pymes",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola bono social",
+      "volumen": 900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola carrefour",
+      "volumen": 1100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola comparativa endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola comparativa naturgy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola contador digital",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola cuota fija",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola cups",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola dar alta luz",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola distribucion",
+      "volumen": 3000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola energia solar",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola lectura contador gas",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola mantenimiento",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola ofertas",
+      "volumen": 500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola potencia contratada",
+      "volumen": 60
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola precio kwh",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola tarifas",
+      "volumen": 6000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola tarifas 3 2",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola tarifas discriminacion horaria",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iberdrola tarifas tur",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "imagina energia",
+      "volumen": 5300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "imagina energia clientes",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "imagina energia factura",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "imagina energia opiniones",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "imagina energia tarifas",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "imagina energia telefono",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iner energia",
+      "volumen": 800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "integra energia",
+      "volumen": 2900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "integra energia factura",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "integra energia opiniones",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "integra energia tarifas",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "integra energia telefono",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iris energia",
+      "volumen": 700
+    },
+    {
+      "origen": "Roams",
+      "titulo": "iris energia telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "logos energia",
+      "volumen": 1400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "logos energia factura",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "logos energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "logos energia telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "lucera",
+      "volumen": 3600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "lucera opiniones",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "lucera telefono",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz",
+      "volumen": 30000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz agrienergia tarifa solar indexada agrienergia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz ahorrar luz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz alcanzia tarifa dh index alcanzia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz aumentar potencia electrica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz boletin electrico",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz bono social",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz bonpreuesclat energia tarifa estable fija bonpreuesclat energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz bonpreuesclat energia tarifa fija gas bonpreuesclat energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz catgas tarifa dh 2 0td catgas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz certificado energetico",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz chc energia tarifa estable plan confianza flexible chc energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz chc energia tarifa estable plan ilumina promo chc energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz companias luz alternativas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz companias luz baratas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz consumo electrico bar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz consumo electrico comunidad",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz contador analogico",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz contador electrico propiedad",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz contigo energia tarifa dh horas contigo energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz contigo energia tarifa estable facil contigo energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz contigo energia tarifa solar bateria virtual contigo energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz contratar luz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz cooperativas energias renovables",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz corte luz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz coste comercialiacion",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz cups",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz dar alta luz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz derechos acceso",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz derechos enganche",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz derechos extension",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz diferencia kw kwh",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz distribucion electrica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa dh flex endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa dh tempo 50 horas endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa dh tempo zero endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa estable endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa estable libre endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa estable tempo 24 horas endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa estable tempo open plana endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz endesa tarifa solar simply endesa",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz energygo tarifa dh 3 tramos energygo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz eres energia tarifa dh indexada eres energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz eres energia tarifa estable fija eres energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz eres energia tarifa solar eres energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz etiqueta energetica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz factor energia tarifa dh fija factor energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz factor energia tarifa solar factor energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz fenie energia tarifa dh mini fenie energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz fenie energia tarifa estable megavatio energetico uniprecio fenie energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz fenie energia tarifa solar electricidad premium indexado fenie energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz fox energia tarifa dh fija plus fox energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas black friday",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas calefaccion electrica gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas cambiar domicilio",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas catgas tarifa dh luz gas 2 0td rl catgas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas comercializadoras referencia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas consumo luz gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas deposito distribuidora",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas lucera tarifa precio de coste luz gas lucera",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas nexus energia tarifa luz gas dh nexus energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas octopus energy tarifa dh luz gas octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas plenitude tarifa estable facil luz gas plenitude",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas repsol tarifa estable plan mixto repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz gas totalenergies tarifa dh ahorro luz gas totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz holaluz tarifa dh clasica holaluz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz holaluz tarifa estable clasica holaluz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz holaluz tarifa plana justa holaluz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz holaluz tarifa solar holaluz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz huella energetica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh plan ahorro automatico iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh plan ahorro inteligente iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh plan invierno iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh plan noche iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh plan vehiculo electrico iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh plan verano iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa dh tres periodos online iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa estable plan estable iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa estable plan mas ahorro iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa estable plan online iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa estable plan supertranquilidad iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iberdrola tarifa solar plan solar iberdrola",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz icp",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iga",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz impuesto electricidad",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz integra energia tarifa dh fija 2 0 td integra energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz interruptor diferencial",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iris energia tarifa estable dh iris energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iris energia tarifa relax estable iris energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz iris energia tarifa residencial promocional estable iris energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz logos energia tarifa dh beta fijo hogar logos energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz lucera tarifa dh a precio de coste lucera",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz maximetro",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz mercado libre",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz mercado regulado tarifa pvpc autoconsumo mercado regulado",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz mercado regulado tarifa pvpc mercado regulado",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz met tarifa dh precio indexado met energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nabalia tarifa dh advance nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nabalia tarifa dh classic nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nabalia tarifa dh freedom nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nabalia tarifa estable flex nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nabalia tarifa solar advance nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nabalia tarifa solar flex nabalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz naturgy tarifa dh noche naturgy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz naturgy tarifa estable luz por uso naturgy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz naturgy tarifa solar naturgy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nexus energia tarifa dh a precio de coste nexus energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nexus energia tarifa estable estable nexus energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nexus energia tarifa solar nexus energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nordy tarifa estable 24 horas nordy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz nordy tarifa mercado index nordy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz octopus energy tarifa dh flexi octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz octopus energy tarifa dh octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz octopus energy tarifa dh vehiculo electrico go octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz octopus energy tarifa estable relax octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz octopus energy tarifa solar dh octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz octopus energy tarifa solar family octopus energy",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz pagar luz internet",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz peajes acceso",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz plenitude tarifa dh tendencia luz plenitude",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz plenitude tarifa estable facil hogar plenitude",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz plenitude tarifa solar facil luz hogar autoconsumo plenitude",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz podo tarifa dh flexi luz hoy podo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz podo tarifa estable flexi uno podo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz podo tarifa solar flexi tres autoconsumo podo",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz potencia electrica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz precio luz horas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz precio medio ponderado",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz precios indexados",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz proxima energia tarifa solar dh indexada proxima energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz pvpc discriminacion horaria",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz pvpc mercado libre",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa dh 10 horas descuento repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa dh 3 horas gratis repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa dh discriminacion horaria repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa dh segunda residencia repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa estable ahorro plus repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa estable tranquilisima repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa plana luz repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz repsol tarifa precio fijo tv repsol",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz servicios companias",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz suministro energia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifa 3 0 a",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifa 3 1 a",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifa 6 1",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifa fija anual",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifa luz trifasica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifa plana",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifas discriminacion horaria",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tarifas electricas acumuladores",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz tope al gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz totalenergies tarifa dh ahora totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz totalenergies tarifa dh vehiculo electrico totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz totalenergies tarifa estable siempre totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz totalenergies tarifa solar a tu aire luz siempre autoconsumo totalenergies",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz trifasica monofasica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz unielectrica tarifa dh indexada unielectrica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz unielectrica tarifa estable relax unielectrica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz unielectrica tarifa solar unielectrica",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz visalia tarifa estable luz fijo 24h visalia",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "luz xenera tarifa dh a vaquina polo que vale xenera",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "madrilena red gas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "madrilena red gas clientes",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "madrilena red gas opiniones",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "madrilena red gas tarifas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "madrilena red gas telefono",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "masmovil energia",
+      "volumen": 1000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "masmovil energia opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "masmovil energia tarifas",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "masmovil energia telefono",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nabalia",
+      "volumen": 1100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nabalia opiniones",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nabalia telefono",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy",
+      "volumen": 220000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy bono social",
+      "volumen": 1200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy cambio titular",
+      "volumen": 600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy clientes",
+      "volumen": 75000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy cups",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy dar alta gas",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy dar baja",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy gas",
+      "volumen": 1900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy lectura contador",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy ofertas",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy opiniones",
+      "volumen": 600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy potencia contratada",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy precio kwh",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy servicio mantenimiento",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy servielectric",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy servigas",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy tarifas",
+      "volumen": 1800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy tarifas discriminacion horaria",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy tarifas plana zen",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy tarifas pvpc",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy tarifas tur",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "naturgy telefono",
+      "volumen": 7700
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia",
+      "volumen": 25000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia clientes",
+      "volumen": 800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia inspeccion",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia lectura contador",
+      "volumen": 450
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia opiniones",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nedgia telefono",
+      "volumen": 2400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nexus energia",
+      "volumen": 2900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nexus energia clientes",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nexus energia opiniones",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nexus energia tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nexus energia telefono",
+      "volumen": 70
+    },
+    {
+      "origen": "Roams",
+      "titulo": "niba",
+      "volumen": 3400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nortegas",
+      "volumen": 9500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nortegas opiniones",
+      "volumen": 60
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nortegas tarifas",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "nortegas telefono",
+      "volumen": 1700
+    },
+    {
+      "origen": "Roams",
+      "titulo": "octopus energy",
+      "volumen": 64000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "octopus energy clientes",
+      "volumen": 1900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "octopus energy opiniones",
+      "volumen": 6900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "octopus energy solar",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "octopus energy telefono",
+      "volumen": 3300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "ovo energy",
+      "volumen": 1500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "pepeenergy",
+      "volumen": 4800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "pepeenergy comparar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "pepeenergy opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "pepeenergy tarifas",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "pepeenergy telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude",
+      "volumen": 28000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude clientes",
+      "volumen": 2500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude energia solar",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude gas",
+      "volumen": 700
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude luz",
+      "volumen": 5600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude opiniones",
+      "volumen": 900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "plenitude telefono",
+      "volumen": 1600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "podo",
+      "volumen": 4600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "podo energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "podo opiniones",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "podo tarifas",
+      "volumen": 60
+    },
+    {
+      "origen": "Roams",
+      "titulo": "podo telefono",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "proxima energia",
+      "volumen": 2400
+    },
+    {
+      "origen": "Roams",
+      "titulo": "redexis",
+      "volumen": 5300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "redexis clientes",
+      "volumen": 1000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "redexis telefono",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "regsiti",
+      "volumen": 6000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "regsiti bono social",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "regsiti opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "regsiti tarifas",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol",
+      "volumen": 125000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol bono social",
+      "volumen": 200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol butano",
+      "volumen": 5600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol clientes",
+      "volumen": 24000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol compromiso ahorro",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol dar alta luz",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol dar baja",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol distribucion",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol endesa",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol energia solar",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol iberdrola",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol mantenimiento",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol naturgy",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol opiniones",
+      "volumen": 80
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol permanencia",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol potencia contratada",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol precio gas propano",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol tarifas",
+      "volumen": 500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol tarifas 3 2",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol tarifas tarifa nocturna",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol tarjeta",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol telefono",
+      "volumen": 1900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "repsol waylet",
+      "volumen": 2900
+    },
+    {
+      "origen": "Roams",
+      "titulo": "serosense",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "som energia",
+      "volumen": 8800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "som energia comparativa",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "som energia opiniones",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "som energia placas solares",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "som energia tarifas",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "som energia telefono",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "swap energia",
+      "volumen": 1200
+    },
+    {
+      "origen": "Roams",
+      "titulo": "syder",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies",
+      "volumen": 25000
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies energia solar",
+      "volumen": null
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies facilita",
+      "volumen": 100
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies opiniones",
+      "volumen": 350
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies puntos",
+      "volumen": 50
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies tarifas",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "totalenergies telefono",
+      "volumen": 600
+    },
+    {
+      "origen": "Roams",
+      "titulo": "u energia",
+      "volumen": 150
+    },
+    {
+      "origen": "Roams",
+      "titulo": "unielectrica",
+      "volumen": 1500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "unielectrica clientes",
+      "volumen": 300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "unielectrica tarifas",
+      "volumen": 30
+    },
+    {
+      "origen": "Roams",
+      "titulo": "vivo energia",
+      "volumen": 10
+    },
+    {
+      "origen": "Roams",
+      "titulo": "watium",
+      "volumen": 1500
+    },
+    {
+      "origen": "Roams",
+      "titulo": "watium clientes",
+      "volumen": 40
+    },
+    {
+      "origen": "Roams",
+      "titulo": "watium opiniones",
+      "volumen": 0
+    },
+    {
+      "origen": "Roams",
+      "titulo": "wekiwi",
+      "volumen": 3300
+    },
+    {
+      "origen": "Roams",
+      "titulo": "wekiwi tarifas",
+      "volumen": 250
+    },
+    {
+      "origen": "Roams",
+      "titulo": "xenera",
+      "volumen": 1800
+    },
+    {
+      "origen": "Roams",
+      "titulo": "xenera opiniones",
+      "volumen": 20
+    },
+    {
+      "origen": "Roams",
+      "titulo": "xenera telefono",
+      "volumen": 70
     }
   ],
-  "enviado": true
+  "enviado": false
 }
